@@ -7,7 +7,7 @@
 
 
 ## Housing QA
-### HousingQA is a benchmark evaluating LLMs' abilities to answer questions about housing law in different states. See the releasing paper for more information on construction.
+### HousingQA is a benchmark evaluating LLMs' abilities to answer questions about housing law in different states. 
 ##### Source: https://huggingface.co/datasets/reglab/housing_qa
 
 ### Housing QA Iowa Slice (38,000 points)
