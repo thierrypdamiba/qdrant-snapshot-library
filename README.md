@@ -4,3 +4,5 @@ A library of Qdrant snapshots. Contains pre-indexed vector datasets for testing,
 ## Categories
 
 ### [Legal](https://github.com/thierrypdamiba/qdrant-snapshot-library/tree/main/legal)
+
+### [Videos](https://github.com/thierrypdamiba/qdrant-snapshot-library/tree/main/videos)
